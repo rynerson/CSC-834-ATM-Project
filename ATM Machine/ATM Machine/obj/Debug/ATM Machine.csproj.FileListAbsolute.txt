@@ -1,0 +1,42 @@
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\ATM Machine.exe.config
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\ATM Machine.exe
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\ATM Machine.pdb
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\Google.Protobuf.dll
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\MySql.Data.dll
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\System.Buffers.dll
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\System.IO.Pipelines.dll
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\System.Memory.dll
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\ZstdSharp.dll
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\Google.Protobuf.pdb
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\Google.Protobuf.xml
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\MySql.Data.xml
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\System.Buffers.xml
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\System.IO.Pipelines.xml
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\System.Memory.xml
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\obj\Debug\ATM Machine.csproj.AssemblyReference.cache
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\obj\Debug\ATM_Machine.Form1.resources
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\obj\Debug\ATM_Machine.Properties.Resources.resources
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\obj\Debug\ATM Machine.csproj.GenerateResource.cache
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\obj\Debug\ATM Machine.csproj.CoreCompileInputs.cache
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\obj\Debug\ATM Mach.211DF680.Up2Date
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\obj\Debug\ATM Machine.exe
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\obj\Debug\ATM Machine.pdb
+C:\Users\catlo\source\repos\ATM Machine\ATM Machine\obj\Debug\ATM Machine.exe.config
